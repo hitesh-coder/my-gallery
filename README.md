@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://hitesh-coder.github.io/interior-consultant/">
+    <a href="https://hitesh-coder.github.io/my-gallery/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/hitesh-coder/interior-consultant">
+    <a href="https://hitesh-coder.github.io/my-gallery/">
       Solution
     </a>
     <span> | </span>
@@ -42,7 +42,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-> https://hitesh-coder.github.io/interior-consultant/
+> https://hitesh-coder.github.io/my-gallery/
 
 ### Built With
 
@@ -58,5 +58,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- [Website] (https://hitesh-coder.github.io/interior-consultant/)
+- [Website] (https://hitesh-coder.github.io/my-gallery/)
 - GitHub [HITESH](https://github.com/hitesh-coder)
