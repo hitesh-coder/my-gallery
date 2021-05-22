@@ -142,6 +142,8 @@ main {
   width: -moz-fit-content;
   width: fit-content;
   border-radius: 1rem;
+  -webkit-box-shadow: 0 0 10px rgba(49, 49, 49, 0.5);
+          box-shadow: 0 0 10px rgba(49, 49, 49, 0.5);
 }
 
 .gallery img:nth-child(1) {
