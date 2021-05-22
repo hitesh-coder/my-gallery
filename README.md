@@ -58,5 +58,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- [Website] (https://hitesh-coder.github.io/my-gallery/)
+- [Website](https://hitesh-coder.github.io/my-gallery/)
 - GitHub [HITESH](https://github.com/hitesh-coder)
