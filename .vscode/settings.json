@@ -1,0 +1,7 @@
+{
+    "liveSassCompile.settings.excludeList": [
+        "/Users/hiteshkotecha/Downloads/my-gallery/*[!(style)].scss",
+        "**/node_modules/**",
+        ".vscode/**"
+    ]
+}
